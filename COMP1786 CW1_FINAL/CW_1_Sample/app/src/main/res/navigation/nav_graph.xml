@@ -13,7 +13,7 @@
     <fragment
         android:id="@+id/residentListFragment"
         android:name="vn.edu.greenwich.cw_1_sample.ui.resident.list.ResidentListFragment"
-        android:label="Resident List"
+        android:label="Trip List"
         tools:layout="@layout/fragment_resident_list"/>
     <fragment
         android:id="@+id/residentDetailFragment"
